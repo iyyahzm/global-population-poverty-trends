@@ -58,7 +58,7 @@ One dataset used in the poverty section — historical extreme-poverty rates by 
 
 Note: GitHub's notebook viewer sanitizes some embedded content, so the interactive map and sliders may not render fully inline on GitHub itself — they display correctly when opened via [nbviewer.org](https://nbviewer.org) or run locally in Jupyter.
 
-This project was originally built as an assignment for a university data science course, then restructured here as a standalone project — the course scaffolding (deadlines, autograder checks, fill-in-the-blank prompts) has been stripped out in favor of a normal analysis narrative, with the original code and findings intact.
+This project was inspired by an assignment for a university data science course.
 
 ## Author
 
